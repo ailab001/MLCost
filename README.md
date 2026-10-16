@@ -2,6 +2,27 @@
 
 Predicting ML training time and electricity cost using MLPerf benchmark data.
 
+## 📄 Publication
+
+**Predicting Machine Learning Training Costs with MLPerf Benchmarks**
+J. Kim and Y. Yoon
+*2025 IEEE International Conference on Big Data (BigData)*, Macau, China, 2025, pp. 4633-4642
+DOI: [10.1109/BigData66926.2025.11402502](https://doi.org/10.1109/BigData66926.2025.11402502)
+
+### Citation
+
+```bibtex
+@inproceedings{kim2025mlcost,
+  title={Predicting Machine Learning Training Costs with MLPerf Benchmarks},
+  author={Kim, J. and Yoon, Y.},
+  booktitle={2025 IEEE International Conference on Big Data (BigData)},
+  pages={4633--4642},
+  year={2025},
+  address={Macau, China},
+  doi={10.1109/BigData66926.2025.11402502}
+}
+```
+
 ## Performance
 
 | Metric | Value |
